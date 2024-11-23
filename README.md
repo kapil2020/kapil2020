@@ -23,72 +23,71 @@
 
 ---
 
-## 🚀 Current Projects
-### 🛠️ **Dynamic Routing for Urban Green Mobility (DRUM):**
-- **Goal:** Minimize air pollution exposure and optimize urban mobility.
-- **Features:** Combines real-time air quality data with personalized travel routes.
-- **Learn More:** [Visit Project](https://sites.google.com/view/kapil-lab/projects)
-
-### 📊 **Impact of Air Pollution on Travel Behavior:**
-- Conducting **SP & RP surveys** to analyze mode shifts and route choices.
-- Attributes: Travel time, cost, green cover, and real-time air quality data.
-
----
-
-## 🛠️ Tools & Technologies
+## 📈 Contributions at a Glance  
+Even with fewer contributions, quality always shines! 🌟  
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Data%20Science-brightgreen?style=flat-square&logo=data:image/png;base64,...logo" />
+  <img src="https://streak-stats.demolab.com/?user=kapil2020&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil2020&theme=react-dark&hide_border=true&area=true&line=ffffff&point=40c463&custom_title=Last+6+Months+Activity" alt="Contribution Activity Graph" />
 </div>
 
 ---
 
-## 📈 Achievements
-- 📝 Published **multiple papers** on urban mobility and environmental sustainability.
-- 🔧 Developed **innovative tools and surveys** for travel behavior analysis.
-- 🌟 Leading a multidisciplinary lab focused on **bridging environmental science and technology**.
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapil2020&hide=contribs,prs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapil2020&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapil2020&theme=radical" alt="Profile Summary" />
+</div>
 
 ---
 
-## 🔗 Connect with Me
+## 🛠️ Featured Projects  
+
+### 🧪 **Custom Survey Platform**  
+#### [Frontend Repository](https://github.com/kapil2020/survey-frontend) | [Backend Repository](https://github.com/kapil2020/survey-backend)  
+- **Description:** A modern, web-based survey platform designed to analyze travel behavior and minimize air pollution exposure.  
+- **Tech Stack:** React (Frontend), Node.js (Backend), Vercel, Render.  
+- **Key Features:**  
+  - Stated and revealed preference surveys.  
+  - Exportable JSON responses.  
+  - Real-time air quality integration.  
+
+---
+
+### 🚦 **Clean Route Initiative**  
+#### [Organization](https://github.com/clean-route) | [Repository](https://github.com/sadityakumar9211/clean-route)  
+- **Description:** A collaborative effort to optimize urban mobility by reducing air pollution and promoting sustainable routes.  
+- **Tech Stack:** Python, JavaScript, OpenStreetMap APIs.  
+- **Key Features:**  
+  - Dynamic route optimization for pollution reduction.  
+  - Integration with real-time traffic and air quality APIs.  
+
+---
+
+## 🔥 Dynamic Widgets  
+
+### ✨ Overall Contributions  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapil2020&theme=radical" alt="Contribution Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapil2020&theme=radical" alt="Most Commit Language" />
+</div>
+
+### 🌟 Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- [Dynamic Routing and Green Mobility](https://yourblogsite.com/dynamic-routing)  
+- [Air Quality Impact on Travel Behavior](https://yourblogsite.com/air-quality-travel)  
+- [Real-Time Data for Smarter Cities](https://yourblogsite.com/smart-cities)  
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🔗 Connect with Me  
 <div align="center">
   <a href="https://www.linkedin.com/in/kapilmeena/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://sites.google.com/view/kapil-lab/home"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=google"></a>
   <a href="mailto:kapilm.48@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
 </div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapil2020&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil2020&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=kapil2020&theme=radical" alt="GitHub Streaks" />
-</div>
-
----
-
-## 🌟 Dynamic Widgets
-### 🛠️ Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil2020&theme=react-dark" alt="Contribution Activity" />
-</div>
-
-### 🌟 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post 1: Dynamic Routing and Green Mobility](#)
-- [Post 2: Air Quality Impact on Travel Behavior](#)
-- [Post 3: Using Real-Time Data for Smarter Cities](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ✨ Let's Collaborate!
-Feel free to reach out for research discussions, collaborations, or exploring ideas in **urban mobility and sustainability**!
 
 ---
 
