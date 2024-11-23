@@ -16,6 +16,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/Q8I2rDgr5SW3bYoZKP/giphy.gif" width="600" alt="Professional Animation">
+</div>
+
+---
+
 ## 🌟 About Me
 
 Hi! I'm **Kapil**, a **researcher and developer** with a keen interest in creating sustainable urban solutions.  
@@ -27,9 +33,6 @@ I specialize in **urban mobility**, **air quality**, and **data-driven approache
 - **Sustainable Development:** Smart cities, air pollution studies.
 
 📫 **Let's Collaborate:** [kapilm.48@gmail.com](mailto:kapilm.48@gmail.com)  
-
-## 📊 Google Scholar
-[![Google Scholar Citations](https://img.shields.io/badge/Google%20Scholar-Citations%3A%2070+-blue)](https://scholar.google.com/citations?user=5jIAPTEAAAAJ&hl=en)
 
 ---
 
@@ -63,9 +66,9 @@ A collaborative project optimizing urban mobility and reducing pollution with re
 ---
 
 ## 🌍 Recent Blog Posts
-- [Dynamic Routing and Green Mobility](https://yourblogsite.com/dynamic-routing)
-- [Air Quality Impact on Travel Behavior](https://yourblogsite.com/air-quality-travel)
-- [Real-Time Data for Smarter Cities](https://yourblogsite.com/smart-cities)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=18&lines=Dynamic+Routing+and+Green+Mobility;Air+Quality+Impact+on+Travel+Behavior;Real-Time+Data+for+Smarter+Cities" alt="Dynamic Blog Typing Animation">
+</div>
 
 ---
 
@@ -84,6 +87,12 @@ A collaborative project optimizing urban mobility and reducing pollution with re
   <a href="mailto:kapilm.48@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail">
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5xaOcLT4VTDwK9GhA7y/giphy.gif" width="300" alt="Dynamic Gif Animation">
 </div>
 
 ---
