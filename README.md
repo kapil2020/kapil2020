@@ -47,7 +47,7 @@ I bridge **technology**, **environmental science**, and **data-driven solutions*
 
 ## 🔗 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/kapil"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="[https://linkedin.com/in/kapil](https://www.linkedin.com/in/kapilmeena/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://sites.google.com/view/kapil-lab/home"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=firefox"></a>
   <a href="mailto:kapilm.48@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
 </div>
