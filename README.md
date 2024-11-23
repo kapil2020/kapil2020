@@ -93,13 +93,22 @@
 
 ---
 
-## 📈 GitHub Stats That Speak:
+## 📈 GitHub Contribution:
 
 <div align="center">
+  <h3>🔥 Contributions</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil2020&theme=high-contrast&hide_border=true&bg_color=000000&color=58a6ff&point=40c463" alt="Contribution Heatmap" />
+</div>
+
+---
+
+## 🌟 GitHub Stats That Speak:
+
+<div align="center">
+  <h3>🔥  Time line</h3>
   <img src="https://streak-stats.demolab.com/?user=kapil2020&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil2020&theme=react-dark&hide_border=true&area=true&line=ffffff&point=40c463" alt="Contribution Activity Graph" />
-  <br>
+  <h3>📊 Repository Highlights</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kapil2020&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
