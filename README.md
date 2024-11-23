@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/classic/horizontal.svg" alt="Metrics Animation">
+  <img src="https://github.com/kapil2020/kapil2020/blob/main/metrics.svg" alt="Metrics Animation">
 </div>
 
 ---
