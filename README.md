@@ -12,7 +12,7 @@ I bridge **technology**, **environmental science**, and **data-driven solutions*
 - 🔬 **Research Areas:** Urban mobility, air quality studies, and sustainable infrastructure.
 - 🌱 **Passion:** Building smart, sustainable solutions for urban transportation.
 - 💻 **Hobbies:** Coding, data visualization, and exploring smart city technologies.
-- 📫 **Reach me at:** [kapil@example.com](mailto:kapil@example.com)
+- 📫 **Reach me at:** [kapilm.48@gmail.com](mailto:kapilm.48@gmail.com)
 
 ---
 
@@ -47,7 +47,7 @@ I bridge **technology**, **environmental science**, and **data-driven solutions*
 
 ## 🔗 Connect with Me
 <div align="center">
-  <a href="[https://linkedin.com/in/kapil](https://www.linkedin.com/in/kapilmeena/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/kapilmeena/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://sites.google.com/view/kapil-lab/home"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=firefox"></a>
   <a href="mailto:kapilm.48@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
 </div>
@@ -56,15 +56,17 @@ I bridge **technology**, **environmental science**, and **data-driven solutions*
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapil-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kapil2020&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil2020&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🌟 Dynamic Widgets
 ### 🛠️ Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kapil-username&theme=react-dark)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil2020&theme=react-dark" alt="Contribution Activity" />
+</div>
 
 ### 🌟 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
