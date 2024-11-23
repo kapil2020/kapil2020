@@ -8,19 +8,19 @@
   </a>
 </div>
 
----
+## 📊 Citation Metrics
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Researcher+in+Urban+Mobility+%F0%9F%9A%86;Passionate+about+Air+Quality+%F0%9F%8C%8D;Sustainable+Transportation+Systems+%F0%9F%9A%9A;Building+Smart+Solutions+%F0%9F%92%BB;Always+Learning+%E2%9C%A8" alt="Typing Animation">
-</div>
+### Cited by
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Q8I2rDgr5SW3bYoZKP/giphy.gif" width="600" alt="Professional Animation">
-</div>
+| Metric       | All | Since 2019 |
+|--------------|-----|------------|
+| **Citations** | 70  | 70         |
+| **h-index**   | 3   | 3          |
+| **i10-index** | 2   | 2          |
 
 ---
+
+
 
 ## 🌟 About Me
 
@@ -91,11 +91,7 @@ A collaborative project optimizing urban mobility and reducing pollution with re
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/5xaOcLT4VTDwK9GhA7y/giphy.gif" width="300" alt="Dynamic Gif Animation">
-</div>
 
----
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
