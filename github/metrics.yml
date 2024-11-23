@@ -1,0 +1,36 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Updates daily
+  workflow_dispatch: # Allow manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: classic
+          template: classic
+          animations: true
+          repositories: 5
+          lines: true
+          languages: true
+          traffic: true
+          achievements: true
+
+      - name: Commit Metrics
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          mv metrics.classic.svg metrics.svg
+          git add metrics.svg
+          git commit -m "Update metrics animation [skip ci]" || exit 0
+          git push
