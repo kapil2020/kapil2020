@@ -14,12 +14,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/kapil2020/kapil2020/blob/main/metrics.svg" alt="Metrics Animation">
-</div>
-
----
-
 ## 🌍 About Me
 
 - 🔬 **Research Areas:** Urban mobility, air quality studies, and sustainable infrastructure.
@@ -41,7 +35,7 @@
 
 ---
 
-## 🎨 Featured Visualizations
+## 🎨 GitHub Highlights
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kapil2020&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
@@ -71,14 +65,6 @@
 - [Dynamic Routing and Green Mobility](https://yourblogsite.com/dynamic-routing)
 - [Air Quality Impact on Travel Behavior](https://yourblogsite.com/air-quality-travel)
 - [Real-Time Data for Smarter Cities](https://yourblogsite.com/smart-cities)
-
----
-
-## 🌌 Particle Effects Background
-
-<div align="center">
-  <img src="https://github.com/kapil2020/kapil2020/blob/main/particles.svg" alt="Particle Background">
-</div>
 
 ---
 
