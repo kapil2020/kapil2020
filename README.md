@@ -26,7 +26,9 @@ I specialize in **urban mobility**, **air quality**, and **data-driven approache
 - **Data Science & Analytics:** Python, R, and machine learning.
 - **Sustainable Development:** Smart cities, air pollution studies.
 
-📫 **Let's Collaborate:** [kapilm.48@gmail.com](mailto:kapilm.48@gmail.com)
+📫 **Let's Collaborate:** [kapilm.48@gmail.com](mailto:kapilm.48@gmail.com)  
+
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-black?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=5jIAPTEAAAAJ&hl=en)
 
 ---
 
@@ -71,6 +73,9 @@ A collaborative project optimizing urban mobility and reducing pollution with re
 <div align="center">
   <a href="https://www.linkedin.com/in/kapilmeena/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://scholar.google.com/citations?user=5jIAPTEAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/-Google%20Scholar-black?style=flat-square&logo=google-scholar">
   </a>
   <a href="https://sites.google.com/view/kapil-lab/home">
     <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=google">
