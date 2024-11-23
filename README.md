@@ -3,7 +3,7 @@
 ## About Me
 Hi, I'm **Kapil**, a passionate researcher focused on **urban mobility, air quality, and sustainable transportation systems**. My work bridges technology, environmental science, and data-driven solutions to create impactful outcomes for communities worldwide.
 
-Learn more about my research and projects on my [Kapil Lab Website](https://sites.google.com/view/kapil-lab/home).
+Learn more about my research and projects on my [Website](https://sites.google.com/view/kapil-lab/home).
 
 ---
 
