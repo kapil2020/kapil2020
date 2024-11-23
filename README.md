@@ -49,22 +49,18 @@
     <tr>
       <th>Metric</th>
       <th>2024</th>
-      <th>All</th>
     </tr>
     <tr>
       <td><strong>Citations</strong></td>
-      <td>20</td>
-      <td>90</td>
+      <td>70</td>
     </tr>
     <tr>
       <td><strong>h-index</strong></td>
-      <td>4</td>
-      <td>4</td>
+      <td>3</td>
     </tr>
     <tr>
       <td><strong>i10-index</strong></td>
-      <td>3</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
   </table>
   <br>
@@ -72,6 +68,7 @@
     <img src="https://img.shields.io/badge/View%20on-Google%20Scholar-blue?style=for-the-badge&logo=google-scholar">
   </a>
 </div>
+ 
 
 ---
 
