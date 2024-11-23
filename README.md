@@ -9,7 +9,13 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Researcher+in+Urban+Mobility+%F0%9F%9A%86;Passionate+about+Air+Quality+%F0%9F%8C%8D;Sustainable+Transportation+Systems+%F0%9F%9A%9A" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Researcher+in+Urban+Mobility+%F0%9F%9A%86;Passionate+about+Air+Quality+%F0%9F%8C%8D;Sustainable+Transportation+Systems+%F0%9F%9A%9A;Building+Smart+Solutions+%F0%9F%92%BB;Open+to+Collaborations+%E2%9C%A8" alt="Typing Animation">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/classic/horizontal.svg" alt="Metrics Animation">
 </div>
 
 ---
@@ -24,23 +30,26 @@
 ---
 
 ## 📈 Contributions Overview
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kapil2020&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil2020&theme=react-dark&hide_border=true&area=true&line=ffffff&point=40c463" alt="Contribution Activity Graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kapil2020&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Featured Visualizations
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapil2020&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapil2020&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapil2020&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kapil2020&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ---
 
 ## 🛠️ Featured Projects
+
 <div align="center">
   <h4><a href="https://github.com/kapil2020/survey-frontend">📋 Survey Platform Frontend</a></h4>
   <p>A modern, web-based survey platform designed to analyze travel behavior and minimize air pollution exposure.</p>
@@ -58,13 +67,23 @@
 ---
 
 ## 🌟 Recent Blog Posts
+
 - [Dynamic Routing and Green Mobility](https://yourblogsite.com/dynamic-routing)
 - [Air Quality Impact on Travel Behavior](https://yourblogsite.com/air-quality-travel)
 - [Real-Time Data for Smarter Cities](https://yourblogsite.com/smart-cities)
 
 ---
 
+## 🌌 Particle Effects Background
+
+<div align="center">
+  <img src="https://github.com/kapil2020/kapil2020/blob/main/particles.svg" alt="Particle Background">
+</div>
+
+---
+
 ## 🔗 Connect with Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/kapilmeena/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://sites.google.com/view/kapil-lab/home"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=google"></a>
