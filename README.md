@@ -1,42 +1,102 @@
 <div align="center">
-  <h1>Welcome to My GitHub Profile! 👋</h1>
-  <h3>I'm <strong>Kapil</strong> — Researcher | Developer | Innovator 🌱</h3>
-  <p>🔬 Passionate about <strong>Urban Mobility</strong>, <strong>Air Quality</strong>, and <strong>Sustainable Transportation Systems</strong>.</p>
-  <p>🚀 Bridging <strong>technology</strong>, <strong>environmental science</strong>, and <strong>data-driven solutions</strong> for sustainable cities.</p>
-  <a href="https://sites.google.com/view/kapil-lab/home">
-    <img src="https://img.shields.io/badge/-Explore%20My%20Work-1E90FF?style=for-the-badge&logo=google&logoColor=white">
+  <h1>Hi, I'm <strong>Kapil</strong> — Researcher | Developer | Innovator 🌱</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=Researching+Urban+Mobility+%F0%9F%9A%86;Enhancing+Air+Quality+%F0%9F%8C%8D;Innovating+Smart+Transportation+%F0%9F%9A%9A;Bridging+Tech+and+Sustainability+%E2%9C%A8" alt="Typing Animation">
+
+  <p>
+    <a href="https://sites.google.com/view/kapil-lab/home">
+      <img src="https://img.shields.io/badge/-Researcher-blue?style=for-the-badge&logo=academia&logoColor=white" alt="Researcher Badge">
+    </a>
+    <a href="https://github.com/kapil2020">
+      <img src="https://img.shields.io/badge/-Developer-orange?style=for-the-badge&logo=github&logoColor=white" alt="Developer Badge">
+    </a>
+    <img src="https://img.shields.io/badge/-Innovator-green?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovator Badge">
+  </p>
+
+  <p>
+    🔬 <strong>Passionate about:</strong> <em>Urban Mobility, Air Quality, and Sustainable Transportation Systems.</em><br>
+    🚀 <strong>Bridging:</strong> <em>Technology, Environmental Science, and Data-Driven Solutions for Sustainable Cities.</em>
+  </p>
+</div>
+
+---
+
+## 🛠️ Expertise at a Glance:
+
+- 🌍 **Urban Mobility:** Dynamic routing, green transportation, and optimization.
+- 📊 **Data Science & Analytics:** Python, R, and machine learning.  
+  <div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge">
+    <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML Badge">
+  </div>
+
+- 🌱 **Sustainable Development:** Smart cities, air pollution studies.  
+  <div>
+    <img src="https://img.shields.io/badge/-Smart%20Cities-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Smart Cities Badge">
+    <img src="https://img.shields.io/badge/-Air%20Pollution%20Studies-32CD32?style=for-the-badge&logo=leaf&logoColor=white" alt="Air Pollution Studies Badge">
+  </div>
+
+📫 **Collaborate with Me:** [kapilm.48@gmail.com](mailto:kapilm.48@gmail.com)
+
+---
+
+## 📊 Citation Metrics (in 2024)
+
+<div align="center">
+  <h3>📚 Google Scholar Overview (2024)</h3>
+  <table>
+    <tr>
+      <th>Metric</th>
+      <th>2024</th>
+      <th>All</th>
+    </tr>
+    <tr>
+      <td><strong>Citations</strong></td>
+      <td>20</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><strong>h-index</strong></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><strong>i10-index</strong></td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+  </table>
+  <br>
+  <a href="https://scholar.google.com/citations?user=5jIAPTEAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/View%20on-Google%20Scholar-blue?style=for-the-badge&logo=google-scholar">
   </a>
 </div>
 
-## 📊 Citation Metrics
+---
 
-### Cited by
+## 📝 Recent Publications (in 2024)
 
-| Metric       | All | Since 2019 |
-|--------------|-----|------------|
-| **Citations** | 70  | 70         |
-| **h-index**   | 3   | 3          |
-| **i10-index** | 2   | 2          |
+1. **Meena, Kapil, Rujhaan Taneja, and Amit Agarwal (2024).**  
+   "Impact of Air Pollution on Informed Decision-Making for Choice of a Travel Mode".  
+   *16th International Conference on CoMmunication Systems & NETworkS (COMSNETS), IEEE.*  
+   [DOI: 10.1109/COMSNETS59351.2024.10427003](https://doi.org/10.1109/COMSNETS59351.2024.10427003)
+
+2. **Meena, Kapil, Deepak Bairwa, and Amit Agarwal (2024).**  
+   "A Machine Learning Approach for Unraveling the Influence of Air Quality Awareness on Travel Behavior".  
+   *Decision Analytics Journal.*  
+   [DOI: 10.1016/j.dajour.2024.100459](https://doi.org/10.1016/j.dajour.2024.100459)
+
+3. **Meena, Kapil, and Goswami, A.K. (2024).**  
+   "A Review of Air Pollution Exposure Impacts on Travel Behaviour and Way Forward".  
+   *Transport Policy.*  
+   [DOI: 10.1016/j.tranpol.2024.05.024](https://doi.org/10.1016/j.tranpol.2024.05.024)
+
+
 
 ---
 
-
-
-## 🌟 About Me
-
-Hi! I'm **Kapil**, a **researcher and developer** with a keen interest in creating sustainable urban solutions.  
-I specialize in **urban mobility**, **air quality**, and **data-driven approaches** to solve modern challenges.  
-
-### 🔧 Expertise:
-- **Urban Mobility:** Dynamic routing, green transportation, and optimization.
-- **Data Science & Analytics:** Python, R, and machine learning.
-- **Sustainable Development:** Smart cities, air pollution studies.
-
-📫 **Let's Collaborate:** [kapilm.48@gmail.com](mailto:kapilm.48@gmail.com)  
-
----
-
-## 📈 My GitHub Stats
+## 📈 GitHub Stats That Speak:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kapil2020&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -48,7 +108,7 @@ I specialize in **urban mobility**, **air quality**, and **data-driven approache
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Featured Projects
 
 ### 📋 **Survey Platform**
 - **Frontend:** [View Repository](https://github.com/kapil2020/survey-frontend)
@@ -65,14 +125,15 @@ A collaborative project optimizing urban mobility and reducing pollution with re
 
 ---
 
-## 🌍 Recent Blog Posts
+## 🌍 Insights and Blog Posts
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23ff5733&size=18&lines=Dynamic+Routing+and+Green+Mobility;Air+Quality+Impact+on+Travel+Behavior;Real-Time+Data+for+Smarter+Cities" alt="Dynamic Blog Typing Animation">
 </div>
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kapilmeena/">
@@ -90,8 +151,6 @@ A collaborative project optimizing urban mobility and reducing pollution with re
 </div>
 
 ---
-
-
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
