@@ -28,7 +28,8 @@ I specialize in **urban mobility**, **air quality**, and **data-driven approache
 
 📫 **Let's Collaborate:** [kapilm.48@gmail.com](mailto:kapilm.48@gmail.com)  
 
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-black?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=5jIAPTEAAAAJ&hl=en)
+## 📊 Google Scholar
+[![Google Scholar Citations](https://img.shields.io/badge/Google%20Scholar-Citations%3A%2070+-blue)](https://scholar.google.com/citations?user=5jIAPTEAAAAJ&hl=en)
 
 ---
 
