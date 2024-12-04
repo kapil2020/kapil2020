@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm <strong>Kapil</strong> — Researcher | Developer | Innovator 🌱</h1>
+  <h1>Hi, I'm <strong>Kapil Meena</strong> — Researcher | Developer | Innovator 🌱</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=Researching+Urban+Mobility+%F0%9F%9A%86;Enhancing+Air+Quality+%F0%9F%8C%8D;Innovating+Smart+Transportation+%F0%9F%9A%9A;Bridging+Tech+and+Sustainability+%E2%9C%A8" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=700&lines=Urban+Mobility+Expert+%F0%9F%9A%86;Advocating+Sustainable+Transportation+%F0%9F%8C%8D;Leveraging+Tech+for+Green+Solutions+%E2%9C%A8;Connecting+Data+and+Sustainability+%F0%9F%93%88" alt="Typing Animation">
 
   <p>
     <a href="https://sites.google.com/view/kapil-lab/home">
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 Citation Metrics (in 2024)
+## 📊 Citation Metrics (2024)
 
 <div align="center">
   <h3>📚 Google Scholar Overview (2024)</h3>
@@ -68,11 +68,10 @@
     <img src="https://img.shields.io/badge/View%20on-Google%20Scholar-blue?style=for-the-badge&logo=google-scholar">
   </a>
 </div>
- 
 
 ---
 
-## 📝 Recent Publications (in 2024)
+## 📝 Recent Publications (2024)
 
 1. **Meena, Kapil, Rujhaan Taneja, and Amit Agarwal (2024).**  
    "Impact of Air Pollution on Informed Decision-Making for Choice of a Travel Mode".  
@@ -89,8 +88,6 @@
    *Transport Policy.*  
    [DOI: 10.1016/j.tranpol.2024.05.024](https://doi.org/10.1016/j.tranpol.2024.05.024)
 
-
-
 ---
 
 ## 📈 GitHub Contribution:
@@ -105,7 +102,7 @@
 ## 🌟 GitHub Stats That Speak:
 
 <div align="center">
-  <h3>🔥  Time line</h3>
+  <h3>🔥 Time Line</h3>
   <img src="https://streak-stats.demolab.com/?user=kapil2020&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   <br>
   <h3>📊 Repository Highlights</h3>
