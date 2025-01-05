@@ -121,6 +121,11 @@
 - **Backend:** [View Repository](https://github.com/kapil2020/survey-backend)  
 A modern survey platform analyzing travel behavior to minimize air pollution exposure.  
 **Tech Stack:** React (Frontend), Node.js (Backend), Vercel, Render.
+  <a href="https://github.com/kapil2020/react-frontend-kgp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kapil2020/react-frontend-kgp" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ---
 
