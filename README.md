@@ -62,7 +62,7 @@
   <h3>📚 Google Scholar (2024)</h3>
   <table>
     <tr><th>Metric</th><th>Value</th></tr>
-    <tr><td>Citations</td><td>70+</td></tr>
+    <tr><td>Citations</td><td>90+</td></tr>
     <tr><td>h-index</td><td>3</td></tr>
     <tr><td>i10-index</td><td>2</td></tr>
   </table>
@@ -78,8 +78,9 @@
 
 ### 🧪 [India Air Quality Dashboard](https://github.com/kapil2020/air-quality-dashboard)
 A real-time visualization platform for city-level AQI monitoring, trends, and spatial interpolation.
+**Tech Stack**: Streamlit, MongoDB, Render, Vercel, Webscrapping
 
-### 📋 [Survey Platform – Mobility & Air Quality](https://github.com/kapil2020/survey-frontend)
+### 📋 [Survey Platform – Mobility & Air Quality](https://github.com/kapil2020/survey-frontend](https://github.com/kapil2020/react-frontend-kgp)
 A comprehensive frontend-backend app to study behavioral shifts under pollution exposure.  
 **Tech Stack**: React, Node.js, Streamlit, MongoDB, Render, Vercel
 
